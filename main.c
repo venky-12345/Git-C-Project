@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("Learning GIT Restore!\n");
+    printf("Conflict Branch\n");
 
     return 0;
 }
