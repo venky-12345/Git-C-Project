@@ -2,13 +2,7 @@
 
 int main()
 {
-    printf("Main Branch\n");
+    printf("Main Branch and Conflict Branch\n");
 
     return 0;
 }
-
-
-
-
-
-
