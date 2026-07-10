@@ -2,7 +2,8 @@
 
 int main()
 {
-    printf("Main Branch and Conflict Branch\n");
+    printf("Hello GitHub\n");
 
     return 0;
 }
+
